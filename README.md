@@ -19,7 +19,7 @@ For further specifications of the scheme, please refer to the paper:
   doi={10.1109/MMSP48831.2020.9287064}}
 ```
 
-For the motion estimation, SpyNet 
+For the motion estimation, [Spynet (2017)](https://github.com/anuragranj/spynet) model is utilized:
 ```
 @inproceedings{spynet2017,
     author = {Ranjan, Anurag and Black, Michael J.},
